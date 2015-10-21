@@ -5,3 +5,7 @@ Es una plataforma de software diseñada para administrar varias instalaciones de
 ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
 
 El interprete interactivo lee, evalua, e imprime, mientras que el intérprete de Ruby ejecuta todo.
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+
+PRY lo muestra como si lo hubieramos ejecutado como ruby, únicamente el 'Hello world'.
